@@ -124,6 +124,14 @@ taskflow/
 - 期限切れタスクは視覚的に警告（赤枠＋ラベル）
 - 完了済みタスクは自動的に下部へソート
 
+## 📝 関連する技術記事
+
+副業ポートフォリオで作った別の作品「AIChat」の設計を、Zennで詳しく解説しています。
+
+**[SDKに頼らない Fetch API + SSE で OpenAI / Anthropic / Gemini を統一インターフェースで呼び出す](https://zenn.dev/kasaharareo/articles/b9e89b27b51534)**
+
+TypeScriptでの設計力や、複数APIを統一する抽象化の考え方など、TaskFlowにも通底する設計思想を約12,000字で解説しています。
+
 ## 🚀 今後の改善予定
 
 - [ ] タスクのカテゴリー / タグ機能
